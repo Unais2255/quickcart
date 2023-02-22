@@ -1,0 +1,9 @@
+const String shopingCart = "assets/shopping-bag.png";
+const String intro1 = "assets/WhatsApp Image 2023-02-04 at 11.12.19 PM.jpeg";
+const String intro2 = "assets/WhatsApp Image 2023-02-04 at 11.12.19 PM.jpeg";
+const String intro3 = "assets/WhatsApp Image 2023-02-04 at 11.13.23 PM.jpeg";
+const String welcome = "assets/WhatsApp Image 2023-02-04 at 11.13.23 PM (1).jpeg";
+const String facebook = "assets/icons8-facebook-96.png";
+const String google = "assets/icons8-google-96.png";
+const String linkedin = "assets/icons8-linkedin-circled-48.png";
+const String twitter = "assets/icons8-twitter-96.png";

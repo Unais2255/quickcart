@@ -1,0 +1,50 @@
+// ignore_for_file: constant_identifier_names
+
+const String indro1Text = "Explore the New World";
+const String indro1Descp = "Find your best colthing option without any delay";
+const String indro2Text = "Discover New Trends";
+const String indro2Descp = "Find your best colthing option without any delay";
+const String indro3Text = "Get Fast delivery";
+const String indro3Descp = "Find your best colthing option without any delay";
+const String welcome2 = "WELCOME";
+const String signin = "Lets's Signin";
+const String title = "welcome back.you've been missed";
+const String logintext = "Enter your Name or Email address";
+const String logintitle = "Username or Email";
+const String passwordtext = "Choos a password";
+const String passtitle = "Password";
+const String forgetpas = "Forget Password?";
+const String Login = "Log in";
+const String dvdrtext = "or continue with";
+const String signuptext1 = "Already Have an account? ";
+const String signuptext2 = "SIGNUP NOW";
+const String startpagetitle = "Getting Started";
+const String startpagetext = "Create an account to continue!";
+const String login2title = "Email";
+const String login2text = "Email address";
+const String lognametitle = "Username";
+const String lognametext = "Enter your full name";
+const String pass2title = "Password";
+const String pass2text = "Choose a password";
+const String ticktext1 = "By creating an account,you agree to our";
+const String ticktext2 = "Terms&Conditions";
+const String startpagebutton = "Go To The Next Step";
+const String logintextt = "LOGIN NOW";
+const String phonetitle = "Phone";
+const String dobtitle = "Date of Birth";
+const String dobtext = "DD/MM/YYY";
+const String gendertitle = "Gender";
+const String gendertext1 = "Male";
+const String gendertext2 = "Female";
+const String sendcodetitle = "Send Code";
+const String sendcodetext =
+    "Enter the phone associated with your account \nand well send email/sms with instructions to verify your account";
+const String sendcodephonetext = "Phone Number";
+const String sendcode = "Send Code";
+const String otptitle = "Verify OTP";
+const String otptext =
+    "Enter the verification code you received on your\n phone or email";
+const String verfybutton = "Verify Code";
+const String resendtxt = "Resend Code";
+const String Verifytitle = "Verification\nSuccessful";
+const String Continuetxt = "Continue";
